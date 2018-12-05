@@ -1,0 +1,22 @@
+{
+  "name": "open-with-a-tag",
+  "version": "1.0.0",
+  "description": "Open link by creating a tag and simulate click it",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thunderrun/open-with-a-tag.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thunderrun/open-with-a-tag/issues"
+  },
+  "homepage": "https://github.com/thunderrun/open-with-a-tag#readme",
+  "keywords": [
+    "open with a tag"
+  ]
+}
